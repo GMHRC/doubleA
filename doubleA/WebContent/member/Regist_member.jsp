@@ -54,7 +54,7 @@
            
         <div class="col-md-12">
         <div class="page-header">
-    	    <h1> <small>행복떡집에 오신걸 환영합니다</small></h1>
+    	    <h1> <small>행복떡집에 오신걸 환영합니다s</small></h1>
         </div>
         <form class="form-horizontal" id="regform">
         <div class="form-group">
