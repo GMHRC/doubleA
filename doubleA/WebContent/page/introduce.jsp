@@ -28,7 +28,7 @@
 	href="../images/ico/apple-touch-icon-72-precomposed.png">
 <link rel="apple-touch-icon-precomposed"
 	href="../images/ico/apple-touch-icon-57-precomposed.png">
-</head>
+
 </head>
 <body>
 <jsp:include page="../include/header.jsp"/>
