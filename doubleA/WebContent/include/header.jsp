@@ -28,7 +28,7 @@
                     </button>
 
                     <a class="navbar-brand" href="/index.jsp">
-                    	<h1><img src="/images/logo.png" alt="logo"></h1>
+                    	<h1><img src="./images/logo.PNG" alt="logo"></h1>
                     </a>
                     
                 </div>
